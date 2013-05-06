@@ -1,0 +1,11 @@
+Fri May 04 10:21:17 CEST 2012 : Apache Derby Network Server - 10.8.1.2 - (1095077) se ha iniciado y está listo para aceptar conexiones en el puerto 1527
+----------------------------------------------------------------
+Fri May 04 10:21:18 CEST 2012:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.1.2 - (1095077): instance a816c00e-0137-16f0-4e05-0000009f6af8 
+on database directory C:\Documents and Settings\Javier\Mis documentos\Dropbox\1112-IES\1112-Programacion\1112-PROG07\EjemploBD_JDBC_Agenda\agenda  with class loader sun.misc.Launcher$AppClassLoader@9fef6f 
+Loaded from file:/C:/Documents%20and%20Settings/Javier/Mis%20documentos/Dropbox/1112-IES/1112-Programacion/1112-PROG07/EjemploBD_JDBC_Agenda/src/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_03-b05
+user.dir=C:\Documents and Settings\Javier\Mis documentos\Dropbox\1112-IES\1112-Programacion\1112-PROG07\EjemploBD_JDBC_Agenda
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

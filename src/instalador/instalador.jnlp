@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jnlp spec="1.0+" codebase="https://sites.google.com/site/ejemplojdbcagenda/home/descargas/" href="instalador.jnlp">
+    <information>
+        <title>Ejemplo JDBC Agenda
+        </title>
+        <vendor>Javier García Escobedo (javiergarbedo.es)
+        </vendor>
+        <offline-allowed/> 
+        <shortcut>
+            <desktop/>
+            <menu submenu="javiergarbedo.es"/>
+        </shortcut>
+    </information>
+    <security>
+        <all-permissions/>
+    </security>    
+    <resources>
+        <j2se version="1.4+"
+              href="http://java.sun.com/products/autodl/j2se" />
+        <jar href="EjemploBD_JDBC_Agenda.jar" main="true" />
+        <jar href="commons-collections-3.2.1.jar" />
+        <jar href="commons-digester-2.1.jar" />
+        <jar href="commons-logging-1.1.jar" />
+        <jar href="derby.jar" />
+        <jar href="derbyclient.jar" />
+        <jar href="derbynet.jar" />
+        <jar href="jasperreports-4.5.1.jar" />
+        <jar href="mysql-connector-java-5.1.13-bin.jar" />
+    </resources>
+    <application-desc main-class="ejemplobd_jdbc.Inicio">
+        <!-- Application Arguments -->
+    </application-desc>
+</jnlp>

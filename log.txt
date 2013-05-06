@@ -1,0 +1,1 @@
+Wed May 02 21:21:38 CEST 2012 : Apache Derby Network Server - 10.8.1.2 - (1095077) se ha iniciado y está listo para aceptar conexiones en el puerto 1527
